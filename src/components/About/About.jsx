@@ -25,24 +25,30 @@ const About = () => {
               <article className="about__card">
                 <FaAward className="about__icon" />
                 <h5>Experience</h5>
-                <small>3+ Years Working</small>
+                <small>Fresher</small>
               </article>
               <article className="about__card">
                 <FiUsers className="about__icon" />
                 <h5>Clinets</h5>
-                <small>200+ Worldwide</small>
+                <small>None till now</small>
               </article>
               <article className="about__card">
                 <VscFolderLibrary className="about__icon" />
                 <h5>Projects</h5>
-                <small>80+ Completed</small>
+                <small>5+ Completed</small>
               </article>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Voluptatibus velit explicabo debitis nisi neque corrupti excepturi
-              eligendi, similique voluptatem rerum obcaecati quia pariatur, ea
-              ducimus, tenetur dolor non. Fuga, sunt!
+              I am a passionate MERN stack developer with a deep love for
+              crafting dynamic and responsive web applications. My journey in
+              the world of web development has led me to become proficient in
+              JavaScript, HTML, and CSS, enabling me to create engaging user
+              interfaces with React.js while harnessing the power of Node.js and
+              Express.js for server-side logic. I have a keen eye for detail and
+              a commitment to writing clean, efficient code. As a perpetual
+              learner, I stay updated with the latest trends in web development,
+              ensuring that I deliver innovative, high-quality solutions to meet
+              the needs of each project.
             </p>
             <a href="#contact" className="btn btn-primary">
               Let's Talk
