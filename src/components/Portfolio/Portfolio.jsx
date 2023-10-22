@@ -6,48 +6,30 @@ import IMG3 from "../../assets/portfolio3.jpg";
 import IMG4 from "../../assets/portfolio4.jpg";
 import IMG5 from "../../assets/portfolio5.png";
 import IMG6 from "../../assets/portfolio6.jpg";
+import netflix from "../../assets/netflix_clone.png";
+import portfolio from "../../assets/portfolio.png";
+import VRS from "../../assets/VRS.png";
 
 const data = [
   {
     id: 1,
-    image: IMG1,
-    title: "This is title",
-    github: "https://github.com",
-    demo: "https://github.com",
+    image: portfolio,
+    title: "Portfolio",
+    github: "https://github.com/sugam-hub/portfolio",
+    demo: "http://maheshwor-poudel.com.np/",
   },
   {
     id: 2,
-    image: IMG2,
-    title: "This is title",
-    github: "https://github.com",
+    image: netflix,
+    title: "Netflix Clone",
+    github: "https://github.com/sugam-hub/NETFLIX",
     demo: "https://github.com",
   },
   {
     id: 3,
-    image: IMG3,
-    title: "This is title",
-    github: "https://github.com",
-    demo: "https://github.com",
-  },
-  {
-    id: 4,
-    image: IMG4,
-    title: "This is title",
-    github: "https://github.com",
-    demo: "https://github.com",
-  },
-  {
-    id: 5,
-    image: IMG5,
-    title: "This is title",
-    github: "https://github.com",
-    demo: "https://github.com",
-  },
-  {
-    id: 6,
-    image: IMG6,
-    title: "This is title",
-    github: "https://github.com",
+    image: VRS,
+    title: "Vehicle Rental System",
+    github: "https://github.com/sugam-hub/Vehicle-Rental-System",
     demo: "https://github.com",
   },
 ];
